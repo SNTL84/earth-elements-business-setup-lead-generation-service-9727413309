@@ -1,0 +1,25 @@
+name: CI
+
+on:
+  push:
+    branches: [main]
+  pull_request:
+    branches: [main]
+
+jobs:
+  markdown-check:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+      - name: Check required files exist
+        run: |
+          test -f README.md
+          test -f LICENSE
+          test -f CODE_OF_CONDUCT.md
+          test -f CONTRIBUTING.md
+          test -f SECURITY.md
+          test -f CHANGELOG.md
+          test -d assets
+          echo "All required files present."
+      - name: List assets
+        run: ls -la assets/
