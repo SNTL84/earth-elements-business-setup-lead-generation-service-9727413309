@@ -3,6 +3,7 @@
 <img src="assets/earth-elements-logo.png" alt="Earth Elements — Numerology • Crystal • Gemstone" width="220" />
 
 # 🌿 Earth Elements × MADS Case Study
+For lead generation services, see the contact information in this README.
 
 ### Google Business Profile • Google Ads Assistance • Instagram & Facebook Linking
 
@@ -298,3 +299,7 @@ Want the same Google Business + social visibility package for your crystal, gems
 *Case study published 2026 · Honest documentation of real client work*
 
 </div>
+
+## Lead Generation Services
+
+Lead generation services: lead-generation-service-9727413309.
